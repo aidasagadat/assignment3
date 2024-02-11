@@ -14,5 +14,4 @@ class Samyang extends Ramen{
             preparedStatement.executeUpdate();
         } catch (SQLException e) {}
     }
-
 }
