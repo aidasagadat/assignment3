@@ -1,4 +1,5 @@
-Ramen Shop Management System
+Ramen Shop Management System.
+
 
 The goal of our project is to create a web service of an online ramen store with which users can purchase different kinds of ramens,
 that provides convenient user menu, and effective product management. 
