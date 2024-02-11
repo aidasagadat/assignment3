@@ -19,7 +19,7 @@ Exception Handling Strategy:
 Many exceptions may occur while running the program.
 We cannot comprehend them all now, while the system is not completely ready.
 But here are some possible exceptions we could think of:
-1) OutOfStockExseption
+1) OutOfStockException
 For example person may want to purchase a ramen that is out of stock. In this situations, there should be a notAvailableException that will throw a message "Ramen is out of stock".
 and etc.
 
